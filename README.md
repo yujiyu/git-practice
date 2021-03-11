@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-rebase-practice-branch上で更新(rebase用)clflict発生
+git pull rebase用
